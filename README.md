@@ -31,3 +31,10 @@ Now that we have refined our list of employees reaching retirement age, we can s
 ![Mentor_Eligibility_Data](https://user-images.githubusercontent.com/110737061/192620748-73e36a36-f96e-4b93-a996-1b0bb50e2d50.png)
 
 If you are interested in looking at the complete lists of data collected, they are all pooled in the "[Data](https://github.com/William-Venable/Pewlett-Hackard-Analysis/tree/main/Data)" folder.
+
+## Summary
+In the end of this analysis, we are prompted with two questions:
+  1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+  2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+Now, we have already answered our first question previously in our results section of the analysis. There will be 72458 position that will need to be filled as "silver tsunami" beings to make an impact. Now this is a very large number to replace considering that there are only 1549 eligible mentors. In order to answer the second question, we would need to find the exact number of mentors per position and then see if it is doable. If we look over the data, we can see that there is an eligible mentor for each position. Without going in depth I would say that there are enough retirement-ready employees in each department to mentor the next generation.
