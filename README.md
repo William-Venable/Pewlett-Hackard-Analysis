@@ -14,5 +14,5 @@ Based on the results of our data, we can find four major points:
   - The list of employees eligible for the mentorship
   
 As the Pewlett-Hackard employees reach their retirment age, we are asked to pool those reaching that age into a list. Using our code below, we have accumulated a list of these employees. However, we can see that there are duplicates in the list which actually shows the different titles that these employees have had through the years, suggesting promotion.
-![Retirement_Titles_Code](https://user-images.githubusercontent.com/110737061/192619383-f44dcd80-6c60-4a70-b3f4-7c34c51ffccb.png)
-![Retirement_Titles_Data](https://user-images.githubusercontent.com/110737061/192619390-fe0ca40e-1e52-411f-b309-8b542ced0a3f.png)
+
+![Retirement_Titles_Code](https://user-images.githubusercontent.com/110737061/192619383-f44dcd80-6c60-4a70-b3f4-7c34c51ffccb.png) ![Retirement_Titles_Data](https://user-images.githubusercontent.com/110737061/192619390-fe0ca40e-1e52-411f-b309-8b542ced0a3f.png)
