@@ -17,3 +17,7 @@ As the Pewlett-Hackard employees reach their retirment age, we are asked to pool
 
 ![Retirement_Titles_Code](https://user-images.githubusercontent.com/110737061/192619383-f44dcd80-6c60-4a70-b3f4-7c34c51ffccb.png)
 ![Retirement_Titles_Data](https://user-images.githubusercontent.com/110737061/192619390-fe0ca40e-1e52-411f-b309-8b542ced0a3f.png)
+
+To refine our list down so there are no duplicates, we've adjusted our code in order to get current and unique titles to each employee; the total number of employees reaching the retirement age is currently 72458.
+
+![Unique_Titles_Data](https://user-images.githubusercontent.com/110737061/192619881-8010e8cf-25dd-4a2a-bec1-86ee3326b8a1.png)
