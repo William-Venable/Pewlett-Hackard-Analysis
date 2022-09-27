@@ -25,3 +25,9 @@ To refine our list down so there are no duplicates, we've adjusted our code in o
 Using our new unique title list, we can also get a count of the number of each unique title within the buisness.
 
 ![Retiring_Titles_Data](https://user-images.githubusercontent.com/110737061/192620073-bcebdc51-930e-4e44-a92f-2fbcda314fd8.png)
+
+Now that we have refined our list of employees reaching retirement age, we can see who is eiligible for the mentorship. We have filtered our data to only show employees born within the year 1965 and the result was only 1549 eligible employees.
+
+![Mentor_Eligibility_Data](https://user-images.githubusercontent.com/110737061/192620748-73e36a36-f96e-4b93-a996-1b0bb50e2d50.png)
+
+If you are interested in looking at the complete lists of data collected, they are all pooled in the https://github.com/William-Venable/Pewlett-Hackard-Analysis/tree/main/Data folder.
