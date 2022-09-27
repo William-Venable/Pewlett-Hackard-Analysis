@@ -30,4 +30,4 @@ Now that we have refined our list of employees reaching retirement age, we can s
 
 ![Mentor_Eligibility_Data](https://user-images.githubusercontent.com/110737061/192620748-73e36a36-f96e-4b93-a996-1b0bb50e2d50.png)
 
-If you are interested in looking at the complete lists of data collected, they are all pooled in the https://github.com/William-Venable/Pewlett-Hackard-Analysis/tree/main/Data folder.
+If you are interested in looking at the complete lists of data collected, they are all pooled in the "[Data](https://github.com/William-Venable/Pewlett-Hackard-Analysis/tree/main/Data)" folder.
